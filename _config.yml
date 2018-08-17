@@ -105,16 +105,14 @@ prose:
           options:
             - name: "Personal"
               value: personal
-            - name: "Engineering"
-              value: engineering
-            - name: "Physics"
-              value: physics
-            - name: "Psychology"
-              value: psychology
+            - name: "Scala"
+              value: scala
+            - name: "Java"
+              value: java
+            - name: "Spark"
+              value: spark
             - name: "Interesting"
               value: interesting
-            - name: "Web-Development"
-              value: webdevelopment
           alterable: true
       - name: "tags"
         field:
