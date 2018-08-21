@@ -1,3 +1,27 @@
+
+.editor { 
+  width: 100%;
+  height: 410px;
+  font-size: 14px;
+  margin: 0 auto;
+  outline: none;
+}
+
+.editor-wrapper {
+  width: 100%;
+  height: 410px;
+  margin: 0 auto;
+  outline: none;
+}
+
+.inner {
+  position: relative;
+  width: 95%;
+  margin: 0 auto;
+  outline: none;
+}
+
+
 /* tools */
 .cf:before,
 .cf:after {
@@ -311,7 +335,7 @@ main, .notepad-share-icons, .notepad-disqus {
     text-transform: uppercase;
     -webkit-transition: background-color .3s;
     transition: background-color .3s;
-    width: 60%;
+    width: 80%;
     border-radius: 0.125rem; }
     .notepad-content .notepad-index-post .notepad-post-read-more:hover {
       background-color: #e51843; }
